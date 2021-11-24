@@ -379,3 +379,4 @@ E:\Study Materials\.NET\BookListRazor\BookListRazor\bin\Debug\netcoreapp3.1\Syst
 E:\Study Materials\.NET\BookListRazor\BookListRazor\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 E:\Study Materials\.NET\BookListRazor\BookListRazor\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 E:\Study Materials\.NET\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
+E:\Study Materials\.NET\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
